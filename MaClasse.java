@@ -1,4 +1,4 @@
-package org.eclipse.main;
+package org.eclipse.model;
 
 public class MaClasse {
 
@@ -6,6 +6,6 @@ public class MaClasse {
      private double nombreDouble;
      private String message;
      
-
+     
 
 }
