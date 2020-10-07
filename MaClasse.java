@@ -1,6 +1,9 @@
 public class MaClasse {
 
-     int i;
-     double nombreDouble;
+     private int i;
+     private double nombreDouble;
+     private String message;
+     
+
 
 }
